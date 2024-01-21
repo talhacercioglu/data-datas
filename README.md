@@ -1,3 +1,3 @@
 # DATA-DATAS
 
-Bu depo, çeşitli boyutlardaki veri setlerini içeren bir koleksiyonu barındırmaktadır. Veri setleri, CSV formatında sağlanmıştır ve küçükten büyüğe kadar farklı büyüklükteki veri setlerini içermektedir.
+This repository houses a collection of datasets of various sizes. The datasets are provided in CSV format and include datasets of different sizes, from small to large.
